@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.trashed
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+.tmp
+.temp
+*.tmp
+*.temp
+~$*
+
+# Archivos de Word
+~$*.docx
+~$*.doc
+*.wbk
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+
+# OS generated files
+desktop.ini
+$RECYCLE.BIN/
+
+# Ocultos comunes
+.*.swp
+.*.swo
+.*.un~
